@@ -11,6 +11,6 @@ This repository contains solutions for the [freeCodeCamp Daily Coding Challenges
 ## Progress
 
 ```
-├── 2025
+└── 2025
     └── ⏳ 09
 ```
