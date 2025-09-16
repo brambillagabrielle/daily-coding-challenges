@@ -13,4 +13,9 @@ This repository contains solutions for the [freeCodeCamp Daily Coding Challenges
 ```
 └── 2025
     └── ⏳ 09
+        ├── ✅ 12-screen-time.py
+        ├── ✅ 13-missing-numbers.py
+        ├── ✅ 14-word-frequency.py
+        ├── ✅ 15-thermostat-adjuster.py
+        └── ✅ 16-sentence-capitalizer.py
 ```
