@@ -25,7 +25,7 @@ def capitalize(paragraph):
                 sentence_ind += 1
             
             capitalized_paragraph += p
-            
+
         ind += 1
     
     return capitalized_paragraph
@@ -34,4 +34,4 @@ print("Success") if capitalize("this is a simple sentence.") == "This is a simpl
 print("Success") if capitalize("hello world. how are you?") == "Hello world. How are you?" else print("Failed")
 print("Success") if capitalize("i did today's coding challenge... it was fun!!") == "I did today's coding challenge... It was fun!!" else print("Failed")
 print("Success") if capitalize("crazy!!!strange???unconventional...sentences.") == "Crazy!!!Strange???Unconventional...Sentences." else print("Failed")
-print("Success") if capitalize("there's a space before this period . why is there a space before that period ?")== "There's a space before this period . Why is there a space before that period ?" else print("Failed")
+print("Success") if capitalize("there's a space before this period . why is there a space before that period ?") == "There's a space before this period . Why is there a space before that period ?" else print("Failed")
