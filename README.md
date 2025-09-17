@@ -17,5 +17,6 @@ This repository contains solutions for the [freeCodeCamp Daily Coding Challenges
         ├── ✅ 13-missing-numbers.py
         ├── ✅ 14-word-frequency.py
         ├── ✅ 15-thermostat-adjuster.py
-        └── ✅ 16-sentence-capitalizer.py
+        ├── ✅ 16-sentence-capitalizer.
+        └── ✅ 17-slug-generator.py
 ```
