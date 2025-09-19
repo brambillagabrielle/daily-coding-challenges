@@ -19,5 +19,6 @@ This repository contains solutions for the [freeCodeCamp Daily Coding Challenges
         ├── ✅ 15-thermostat-adjuster.py
         ├── ✅ 16-sentence-capitalizer.py
         ├── ✅ 17-slug-generator.py
-        └── ✅ 18-fill-the-tank.py
+        ├── ✅ 18-fill-the-tank.py
+        └── ✅ 19-photo-storage.py
 ```
