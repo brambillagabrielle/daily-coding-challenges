@@ -20,5 +20,8 @@ This repository contains solutions for the [freeCodeCamp Daily Coding Challenges
         ├── ✅ 16-sentence-capitalizer.py
         ├── ✅ 17-slug-generator.py
         ├── ✅ 18-fill-the-tank.py
-        └── ✅ 19-photo-storage.py
+        ├── ✅ 19-photo-storage.py
+        ├── ✅ 20-file-storage.py
+        ├── ✅ 21-video-storage.py
+        └── ✅ 22-digits-vs-letters.py
 ```
