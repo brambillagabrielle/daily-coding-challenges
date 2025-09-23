@@ -23,5 +23,6 @@ This repository contains solutions for the [freeCodeCamp Daily Coding Challenges
         ├── ✅ 19-photo-storage.py
         ├── ✅ 20-file-storage.py
         ├── ✅ 21-video-storage.py
-        └── ✅ 22-digits-vs-letters.py
+        ├── ✅ 22-digits-vs-letters.py
+        └── ✅ 23-string-mirror.py
 ```
