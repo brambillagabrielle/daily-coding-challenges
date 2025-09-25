@@ -25,5 +25,6 @@ This repository contains solutions for the [freeCodeCamp Daily Coding Challenges
         ├── ✅ 21-video-storage.py
         ├── ✅ 22-digits-vs-letters.py
         ├── ✅ 23-string-mirror.py
-        └── ✅ 24-perfect-square.py
+        ├── ✅ 24-perfect-square.py
+        └── ✅ 25-2nd-largest.py
 ```
