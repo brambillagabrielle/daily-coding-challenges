@@ -27,5 +27,6 @@ This repository contains solutions for the [freeCodeCamp Daily Coding Challenges
         ├── ✅ 23-string-mirror.py
         ├── ✅ 24-perfect-square.py
         ├── ✅ 25-2nd-largest.py
-        └── ✅ 26-caught-speeding.py
+        ├── ✅ 26-caught-speeding.py
+        └── ✅ 27-spam-detector.py
 ```
