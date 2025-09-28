@@ -28,5 +28,6 @@ This repository contains solutions for the [freeCodeCamp Daily Coding Challenges
         ├── ✅ 24-perfect-square.py
         ├── ✅ 25-2nd-largest.py
         ├── ✅ 26-caught-speeding.py
-        └── ✅ 27-spam-detector.py
+        ├── ✅ 27-spam-detector.py
+        └── ✅ 28-csv-header-parser.py
 ```
