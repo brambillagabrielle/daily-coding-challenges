@@ -13,21 +13,14 @@ This repository contains solutions for the [freeCodeCamp Daily Coding Challenges
 ```
 └── 2025
     └── ⏳ 09
-        ├── ✅ 12-screen-time.py
-        ├── ✅ 13-missing-numbers.py
-        ├── ✅ 14-word-frequency.py
-        ├── ✅ 15-thermostat-adjuster.py
-        ├── ✅ 16-sentence-capitalizer.py
-        ├── ✅ 17-slug-generator.py
-        ├── ✅ 18-fill-the-tank.py
-        ├── ✅ 19-photo-storage.py
-        ├── ✅ 20-file-storage.py
-        ├── ✅ 21-video-storage.py
-        ├── ✅ 22-digits-vs-letters.py
-        ├── ✅ 23-string-mirror.py
-        ├── ✅ 24-perfect-square.py
-        ├── ✅ 25-2nd-largest.py
-        ├── ✅ 26-caught-speeding.py
-        ├── ✅ 27-spam-detector.py
-        └── ✅ 28-csv-header-parser.py
+        ├── ✅ 12-screen-time.py            ├── ✅ 21-video-storage.py
+        ├── ✅ 13-missing-numbers.py        ├── ✅ 22-digits-vs-letters.py
+        ├── ✅ 14-word-frequency.py         ├── ✅ 23-string-mirror.py
+        ├── ✅ 15-thermostat-adjuster.py    ├── ✅ 24-perfect-square.py
+        ├── ✅ 16-sentence-capitalizer.py   ├── ✅ 25-2nd-largest.py
+        ├── ✅ 17-slug-generator.py         ├── ✅ 26-caught-speeding.py
+        ├── ✅ 18-fill-the-tank.py          ├── ✅ 27-spam-detector.py
+        ├── ✅ 19-photo-storage.py          ├── ✅ 28-csv-header-parser.py
+        └── ✅ 20-file-storage.py           ├── ❔ 29?
+                                            └── ❔ 30?
 ```
