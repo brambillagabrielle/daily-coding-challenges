@@ -12,15 +12,14 @@ This repository contains solutions for the [freeCodeCamp Daily Coding Challenges
 
 ```
 └── 2025
-    └── ⏳ 09
-        ├── ✅ 12-screen-time.py            ├── ✅ 22-digits-vs-letters.py
-        ├── ✅ 13-missing-numbers.py        ├── ✅ 23-string-mirror.py
-        ├── ✅ 14-word-frequency.py         ├── ✅ 24-perfect-square.py
-        ├── ✅ 15-thermostat-adjuster.py    ├── ✅ 25-2nd-largest.py
-        ├── ✅ 16-sentence-capitalizer.py   ├── ✅ 26-caught-speeding.py
-        ├── ✅ 17-slug-generator.py         ├── ✅ 27-spam-detector.py
-        ├── ✅ 18-fill-the-tank.py          ├── ✅ 28-csv-header-parser.py
-        ├── ✅ 19-photo-storage.py          ├── ✅ 29-longest-word.py
-        ├── ✅ 20-file-storage.py           └── ❔ 30?
-        └── ✅ 21-video-storage.py
+    ├── ✅ 09
+    └── ⏳ 10
 ```
+
+## Updates
+
+### #01
+
+September 25th was the first (almost) full month I completed participating in the challenge 🎉
+
+![First Month](https://i.imgur.com/QGYw4Mz.png)
