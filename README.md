@@ -21,6 +21,6 @@ This repository contains solutions for the [freeCodeCamp Daily Coding Challenges
 
 ### #01
 
-September/25 was the first (almost full) month I completed participating in the challenge 🎉
+September 2025 was the first (almost full) month I completed participating in the challenge 🎉
 
 ![First Month](https://i.imgur.com/QGYw4Mz.png)
