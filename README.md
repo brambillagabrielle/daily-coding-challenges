@@ -14,7 +14,8 @@ This repository contains solutions for the [freeCodeCamp Daily Coding Challenges
 └── 2025
     ├── ✅ 09
     └── ⏳ 10
-        └── ✅ 01-binary-to-decimal.py
+        ├── ✅ 01-binary-to-decimal.py
+        └── ✅ 02-decimal-to-binary.py
 ```
 
 ## Updates
