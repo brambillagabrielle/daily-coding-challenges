@@ -15,7 +15,10 @@ This repository contains solutions for the [freeCodeCamp Daily Coding Challenges
     ├── ✅ 09
     └── ⏳ 10
         ├── ✅ 01-binary-to-decimal.py
-        └── ✅ 02-decimal-to-binary.py
+        ├── ✅ 02-decimal-to-binary.py
+        ├── ✅ 03-p@ssw0rd-str3ngth!.py
+        ├── ✅ 04-stellar-classification.py
+        └── ✅ 05-exoplanet-search.py
 ```
 
 ## Updates
