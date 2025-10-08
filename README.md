@@ -17,9 +17,11 @@ This repository contains solutions for the [freeCodeCamp Daily Coding Challenges
         ├── ✅ 01-binary-to-decimal.py
         ├── ✅ 02-decimal-to-binary.py
         ├── ✅ 03-p@ssw0rd-str3ngth!.py
-        ├── ✅ 04-stellar-classification.py
-        ├── ✅ 05-exoplanet-search.py
-        └── ✅ 06-phone-home.py
+        ├── ✅ 04-stellar-classification.py ⭐
+        ├── ✅ 05-exoplanet-search.py ⭐
+        ├── ✅ 06-phone-home.py ⭐
+        ├── ✅ 07-landing-spot.py ⭐
+        └── ✅ 08-goldilocks-zone.py ⭐
 ```
 
 ## Updates
