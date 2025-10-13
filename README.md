@@ -5,9 +5,9 @@
 ## 📌 Introduction
 
 This repository contains solutions to the **[freeCodeCamp Daily Coding Challenges](https://www.freecodecamp.org/learn/daily-coding-challenge/archive)**, written by me with the objectives to:
-1. Practice Python and problem-solving
+1. Practice Python and problem solving
 2. Cultivate a consistent learning habit
-3. Replace 15–30 minutes of doom-scrolling with a more productive activity
+3. Replace 15-30 minutes of doom-scrolling with a more productive activity
 4. ***And just for fun! :D***
 
 ![Gif](https://giffiles.alphacoders.com/297/2970.gif)
