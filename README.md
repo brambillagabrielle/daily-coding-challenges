@@ -14,14 +14,22 @@ This repository contains solutions for the [freeCodeCamp Daily Coding Challenges
 └── 2025
     ├── ✅ 09
     └── ⏳ 10
-        ├── ✅ 01-binary-to-decimal.py
-        ├── ✅ 02-decimal-to-binary.py
-        ├── ✅ 03-p@ssw0rd-str3ngth!.py
-        ├── ✅ 04-stellar-classification.py ⭐
-        ├── ✅ 05-exoplanet-search.py ⭐
-        ├── ✅ 06-phone-home.py ⭐
-        ├── ✅ 07-landing-spot.py ⭐
-        └── ✅ 08-goldilocks-zone.py ⭐
+        ├── ✅ 01-binary-to-decimal.py               ├── ⏳ 17.py
+        ├── ✅ 02-decimal-to-binary.py               ├── ⏳ 18.py
+        ├── ✅ 03-p@ssw0rd-str3ngth!.py              ├── ⏳ 19.py
+        ├── ✅ 04-stellar-classification.py          ├── ⏳ 20.py
+        ├── ✅ 05-exoplanet-search.py                ├── ⏳ 21.py
+        ├── ✅ 06-phone-home.py                      ├── ⏳ 22.py
+        ├── ✅ 07-landing-spot.py                    ├── ⏳ 23.py
+        ├── ✅ 08-goldilocks-zone.py                 ├── ⏳ 24.py
+        ├── ✅ 09-moon-phase.py                      ├── ⏳ 25.py
+        ├── ✅ 10-launch-fuel.py                     ├── ⏳ 26.py
+        ├── ✅ 11-hex-to-decimal.py                  ├── ⏳ 27.py
+        ├── ⏳ 12-battle-of-words.py                 ├── ⏳ 28.py
+        ├── ⏳ 13-24-to-12.py                        ├── ⏳ 29.py
+        ├── ⏳ 14.py                                 ├── ⏳ 30.py
+        ├── ⏳ 15.py                                 └── ⏳ 31.py
+        └── ⏳ 16.py
 ```
 
 ## Updates
