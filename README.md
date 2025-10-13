@@ -29,8 +29,8 @@ This repository contains solutions to the **[freeCodeCamp Daily Coding Challenge
         ├── ✅ 09-moon-phase.py                      ├── ⏳ 25.py
         ├── ✅ 10-launch-fuel.py                     ├── ⏳ 26.py
         ├── ✅ 11-hex-to-decimal.py                  ├── ⏳ 27.py
-        ├── ⏳ 12-battle-of-words.py                 ├── ⏳ 28.py
-        ├── ⏳ 13-24-to-12.py                        ├── ⏳ 29.py
+        ├── ✅ 12-battle-of-words.py                 ├── ⏳ 28.py
+        ├── ✅ 13-24-to-12.py                        ├── ⏳ 29.py
         ├── ⏳ 14.py                                 ├── ⏳ 30.py
         ├── ⏳ 15.py                                 └── ⏳ 31.py
         └── ⏳ 16.py
