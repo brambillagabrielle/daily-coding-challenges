@@ -2,13 +2,17 @@
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-## Introduction
+## 📌 Introduction
 
-This repository contains solutions for the [freeCodeCamp Daily Coding Challenges](https://www.freecodecamp.org/learn/daily-coding-challenge/archive), written by me to practice Python and cultivate a learning habit *(and for fun! :D)*
+This repository contains solutions to the **[freeCodeCamp Daily Coding Challenges](https://www.freecodecamp.org/learn/daily-coding-challenge/archive)**, written by me with the objectives to:
+1. Practice Python and problem-solving
+2. Cultivate a consistent learning habit
+3. Replace 15–30 minutes of doom-scrolling with a more productive activity
+4. ***And just for fun! :D***
 
 ![Gif](https://giffiles.alphacoders.com/297/2970.gif)
 
-## Progress
+## 🛠️ Progress
 
 ```
 └── 2025
@@ -32,10 +36,8 @@ This repository contains solutions for the [freeCodeCamp Daily Coding Challenges
         └── ⏳ 16.py
 ```
 
-## Updates
+## 💬 Updates
 
-### #01
-
-September 2025 was the first (almost full) month I completed participating in the challenge 🎉
-
-![First Month](https://i.imgur.com/QGYw4Mz.png)
+| # | Update                                                                                        | Print |
+|---|-----------------------------------------------------------------------------------------------|-------|
+| 1 | September 2025 was the **first (almost full) month** I completed participating in the challenge 🎉 | ![First Month](https://i.imgur.com/QGYw4Mz.png) |
