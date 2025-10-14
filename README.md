@@ -31,7 +31,7 @@ This repository contains solutions to the **[freeCodeCamp Daily Coding Challenge
         ├── ✅ 11-hex-to-decimal.py                  ├── ⏳ 27.py
         ├── ✅ 12-battle-of-words.py                 ├── ⏳ 28.py
         ├── ✅ 13-24-to-12.py                        ├── ⏳ 29.py
-        ├── ⏳ 14.py                                 ├── ⏳ 30.py
+        ├── ✅ 14-string-count.py                    ├── ⏳ 30.py
         ├── ⏳ 15.py                                 └── ⏳ 31.py
         └── ⏳ 16.py
 ```
